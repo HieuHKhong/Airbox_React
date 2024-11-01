@@ -18,12 +18,12 @@ function Navbar() {
                      <img src={logo} alt="" className="img-fluid"/>
             </div>
 
-            <div className="col-lg-2 col-10 LogoTitle">
+            <div className="col-lg-3 col-10 LogoTitle">
                 <h1>AIR<span>BOX</span></h1>
                 <p>Hosting Provider</p>
             </div>
             
-            <div className="col-lg-9 col-12 Navbar align-content-center">
+            <div className="col-lg-8 col-12 Navbar align-content-center d-inline">
                 <ul>
                     <li><a>Home</a></li>
                     <li><a>Web Hosting</a></li>

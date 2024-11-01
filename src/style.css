@@ -1,3 +1,7 @@
+Body{
+    background-color: #e8e8ea;
+}
+
 .TopBar{
     padding: 3% 5% 3% 5%;
     background-color: #262336;
@@ -63,3 +67,82 @@
     padding: 1% 1% 1% 1%;
     border-radius: 10%;
 }
+
+.MainInfo2 {
+    background-color: #f29b66;
+    padding-bottom: 5%;
+}
+
+.MainInfo2 h2{
+    font-weight: bold;
+    color: white;
+}
+
+.MainInfo2 h4{
+     background: -webkit-linear-gradient(#eee, #68647d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.MainInfo3 {
+    margin: 3% 0% 3% 0%;
+}
+
+.MainInfo3 h2{
+    background-color: #68647d;
+    padding: 10% 0% 10% 0%;
+    margin-bottom: 1%;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+    color: #a7a3a3;
+}
+
+
+
+.MainInfo3 h3 {
+    background-color: #6f6c89;
+    padding: 10% 0% 10% 0%;
+    color: #a8a4b2;
+}
+
+.MainInfo3 span {
+    font-size: 75%;
+    color: orangered;
+}
+
+.MainInfo3 p {
+    margin: 1% 0% 1% 0%;
+    padding: 5% 0% 5% 0%
+}
+
+.MainInfo3 input {
+    padding: 2% 20% 2% 20%;
+    border-radius: 10%;
+    border: none;
+    background-color: #eb7443;
+    font-weight: bold;
+    color: white;
+    font-size: x-large;
+}
+
+.DisplayInfo1{
+    margin-bottom: 5%;
+}
+
+#space {
+    padding: 7% 0% 7% 0%;
+}
+
+.grey {
+    background-color: #f5f0f0;
+}
+
+.white {
+    background-color: white;
+}
+
+#Btn {
+    padding: 5% 0% 5% 0%;
+}
+
+

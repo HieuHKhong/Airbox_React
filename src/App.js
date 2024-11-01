@@ -1,7 +1,9 @@
 import React from "react"
 import './style.css'
 import Header from './components/Header'
-import Body from './components/Body'
+import MainInfo1 from './components/MainInfo1'
+import MainInfo2 from "./components/MainInfo2"
+import Maininfo3 from "./components/Maininfo3"
 
 function App() {
 
@@ -14,7 +16,9 @@ function App() {
             </div>
             
             <div className="container Body">
-                <Body />
+                <MainInfo1 />
+                <MainInfo2 />
+                <Maininfo3 />
             </div>
             
         </div>
